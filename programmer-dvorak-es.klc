@@ -1,4 +1,4 @@
-KBD	DvorakES	"Programmer-Dvorak en Español v2"
+KBD	DvorakES	"Programmer-Dvorak en Español v22"
 
 COPYRIGHT	"(c) 2021 BaruStudio"
 
@@ -78,6 +78,8 @@ LAYOUT		;an extra '@' at the end is a dead key
 39	SPACE		0	0020	0020	0020	-1	-1	-1		// SPACE, SPACE, SPACE, <none>, <none>, <none>
 56	OEM_102	0	00b4@	00a8@	-1	-1	-1	-1	-1		// ACUTE ACCENT, DIAERESIS, <none>, <none>, <none>, <none>
 53	DECIMAL	0	002e	002e	-1	-1	-1	-1	-1		// FULL STOP, FULL STOP, , , ,
+
+
 
 
 DEADKEY	00b4
@@ -199,7 +201,7 @@ KEYNAME_DEAD
 
 DESCRIPTIONS
 
-0409	Latinoamerica - Programmers Dvorak
+0409	Latinoamerica - Programmers Dvorak Pori
 
 LANGUAGENAMES
 
